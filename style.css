@@ -34,5 +34,12 @@ textarea {
     font-size: 1.6rem;
     font-weight: 500;
     color: var(--color-text-base);
-    border: 1px solid black;
+}
+
+button {
+    border-radius: 5px;
+}
+
+body {
+    background-color: var(--color-primary-dark);
 }
